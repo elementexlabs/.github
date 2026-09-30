@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/elementex-mark-dark.png">
+    <img src="brand/elementex-mark.png" alt="ElementeX Labs" width="140">
+  </picture>
+</p>
+
 # ElementeX Labs Inc.
 
 ElementeX explores environmental technology in energy, water, monitoring and climate adaptation. Public materials may include research models, data methods and concept designs. They do not establish measured environmental savings or field-certified infrastructure.
