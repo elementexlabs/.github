@@ -11,8 +11,12 @@ ElementeX explores environmental technology in energy, water, monitoring and cli
 
 ## Open by design
 
-**We plan to publish our environmental monitoring frameworks openly.** We have not published any yet. When we do, they will carry open licences (usually Apache-2.0 for code and CC BY 4.0 for written material), so public-interest teams can use them, check how they work and adapt them freely. Open work is easier to trust, because anyone can see exactly how a result is produced.
+**We build in the open.** ElementeX Labs Inc. publishes its research code and methods under open licences (usually Apache-2.0 for code and CC BY 4.0 for written material), so public-interest teams can use them, check how they work and adapt them freely. Open work is easier to trust, because anyone can see exactly how a result is produced.
 
-**Our own work, and only ours.** Everything we publish here will be our own, built from public data and synthetic examples. It will never include client data, client projects, or anyone else's confidential information or intellectual property.
+**Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
+
+## Public projects
+
+- [cso-insight](https://github.com/elementexlabs/cso-insight): tests whether public combined sewer overflow reports are reliable enough to guide outfall priorities, with data intake, quality checks, cohort accounting and baseline evaluation on open Massachusetts data.
 
 Contact: info@elementexlabs.ca | Website: https://elementexlabs.ca/
