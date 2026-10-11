@@ -19,6 +19,6 @@ ElementeX explores environmental technology in energy, water, monitoring and cli
 
 - [cso-insight](https://github.com/elementexlabs/cso-insight): tests whether public combined sewer overflow reports are reliable enough to guide outfall priorities, with data intake, quality checks, cohort accounting and baseline evaluation on open Massachusetts data.
 - [asset-health-demo](https://github.com/elementexlabs/asset-health-demo): a method demonstration on invented data for 300 transformers and 700 poles, showing data quality checks, inventory and replacement value, a health index, an age profile, replacement scenarios and four acceptance checks. It runs in the browser at https://elementexlabs.ca/demos/asset-health/.
-- [asset-risk-frontier](https://github.com/elementexlabs/asset-risk-frontier): a reproducible study of a public register of 15,873 distribution transformers in Cauca, Colombia (CC BY 4.0 data), with failure ranking, stated uncertainty and a budget-limited replacement scenario. It is research on public data, not a utility system.
+- [asset-risk-frontier](https://github.com/elementexlabs/asset-risk-frontier): a reproducible study of a public register of 15,873 distribution-transformer records in Cauca, Colombia (CC BY 4.0 data), with failure ranking, stated uncertainty and a budget-limited replacement scenario. It is research on public data, not a utility system.
 
 Contact: info@elementexlabs.ca | Website: https://elementexlabs.ca/
