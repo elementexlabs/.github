@@ -15,6 +15,8 @@ ElementeX explores environmental technology in energy, water, monitoring and cli
 
 **Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
 
+How we work: our own code and documentation in these repositories were written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
+
 ## Public projects
 
 - [cso-insight](https://github.com/elementexlabs/cso-insight): tests whether public combined sewer overflow reports are reliable enough to guide outfall priorities, with data intake, quality checks, cohort accounting and baseline evaluation on open Massachusetts data.
