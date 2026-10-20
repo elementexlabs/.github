@@ -7,7 +7,7 @@
 
 # ElementeX Labs Inc.
 
-ElementeX explores environmental technology in energy, water, monitoring and climate adaptation, and builds data analysis for utility asset management. Public materials may include research models, data methods and concept designs. They do not establish measured environmental savings or field-certified infrastructure.
+ElementeX explores environmental technology in energy, water, monitoring and climate adaptation, and builds data analysis for utility asset management. Its public work so far is three reproducible studies and demonstrations on public and synthetic utility and sewer data, including a study of 15,873 public transformer records that found no clear AUC winner between its two failure-ranking models. Public materials may include research models, data methods and concept designs. They do not establish measured environmental savings or field-certified infrastructure.
 
 ## Open by design
 
@@ -22,3 +22,5 @@ ElementeX explores environmental technology in energy, water, monitoring and cli
 - [asset-risk-frontier](https://github.com/elementexlabs/asset-risk-frontier): a reproducible study of a public register of 15,873 distribution-transformer records in Cauca, Colombia (CC BY 4.0 data), with failure ranking, stated uncertainty and a budget-limited replacement scenario. It is research on public data, not a utility system.
 
 Contact: info@elementexlabs.ca | Website: https://elementexlabs.ca/
+
+Open-source parts made by others are credited where used.
